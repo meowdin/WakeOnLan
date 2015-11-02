@@ -1,0 +1,8 @@
+I:\Users\martinsun\Documents\Visual Studio 2010\Projects\WOL\WOL\obj\x86\Debug\WOL.Properties.Resources.resources
+I:\Users\martinsun\Documents\Visual Studio 2010\Projects\WOL\WOL\bin\Debug\WOL.exe
+I:\Users\martinsun\Documents\Visual Studio 2010\Projects\WOL\WOL\bin\Debug\WOL.pdb
+I:\Users\martinsun\Documents\Visual Studio 2010\Projects\WOL\WOL\obj\x86\Debug\WOL.exe
+I:\Users\martinsun\Documents\Visual Studio 2010\Projects\WOL\WOL\obj\x86\Debug\WOL.pdb
+I:\Users\martinsun\Documents\Visual Studio 2010\Projects\WOL\WOL\obj\x86\Debug\WOL.frmWOLUtil.resources
+I:\Users\martinsun\Documents\Visual Studio 2010\Projects\WOL\WOL\obj\x86\Debug\WOL.csproj.GenerateResource.Cache
+I:\Users\martinsun\Documents\Visual Studio 2010\Projects\WOL\WOL\obj\x86\Debug\WOL.csprojResolveAssemblyReference.cache
